@@ -1,0 +1,30 @@
+C:\Users\pavel\source\repos\BackingUpFiles\BackingUpFiles\bin\Debug\net6.0\BackingUpFiles.exe
+C:\Users\pavel\source\repos\BackingUpFiles\BackingUpFiles\bin\Debug\net6.0\BackingUpFiles.deps.json
+C:\Users\pavel\source\repos\BackingUpFiles\BackingUpFiles\bin\Debug\net6.0\BackingUpFiles.runtimeconfig.json
+C:\Users\pavel\source\repos\BackingUpFiles\BackingUpFiles\bin\Debug\net6.0\BackingUpFiles.dll
+C:\Users\pavel\source\repos\BackingUpFiles\BackingUpFiles\bin\Debug\net6.0\BackingUpFiles.pdb
+C:\Users\pavel\source\repos\BackingUpFiles\BackingUpFiles\obj\Debug\net6.0\BackingUpFiles.csproj.AssemblyReference.cache
+C:\Users\pavel\source\repos\BackingUpFiles\BackingUpFiles\obj\Debug\net6.0\BackingUpFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\source\repos\BackingUpFiles\BackingUpFiles\obj\Debug\net6.0\BackingUpFiles.AssemblyInfoInputs.cache
+C:\Users\pavel\source\repos\BackingUpFiles\BackingUpFiles\obj\Debug\net6.0\BackingUpFiles.AssemblyInfo.cs
+C:\Users\pavel\source\repos\BackingUpFiles\BackingUpFiles\obj\Debug\net6.0\BackingUpFiles.csproj.CoreCompileInputs.cache
+C:\Users\pavel\source\repos\BackingUpFiles\BackingUpFiles\obj\Debug\net6.0\BackingUpFiles.dll
+C:\Users\pavel\source\repos\BackingUpFiles\BackingUpFiles\obj\Debug\net6.0\refint\BackingUpFiles.dll
+C:\Users\pavel\source\repos\BackingUpFiles\BackingUpFiles\obj\Debug\net6.0\BackingUpFiles.pdb
+C:\Users\pavel\source\repos\BackingUpFiles\BackingUpFiles\obj\Debug\net6.0\BackingUpFiles.genruntimeconfig.cache
+C:\Users\pavel\source\repos\BackingUpFiles\BackingUpFiles\obj\Debug\net6.0\ref\BackingUpFiles.dll
+C:\Users\pavel\OneDrive\Рабочий стол\ProjectTasks\BackingUpFiles\BackingUpFiles\bin\Debug\net6.0\BackingUpFiles.exe
+C:\Users\pavel\OneDrive\Рабочий стол\ProjectTasks\BackingUpFiles\BackingUpFiles\bin\Debug\net6.0\BackingUpFiles.deps.json
+C:\Users\pavel\OneDrive\Рабочий стол\ProjectTasks\BackingUpFiles\BackingUpFiles\bin\Debug\net6.0\BackingUpFiles.runtimeconfig.json
+C:\Users\pavel\OneDrive\Рабочий стол\ProjectTasks\BackingUpFiles\BackingUpFiles\bin\Debug\net6.0\BackingUpFiles.dll
+C:\Users\pavel\OneDrive\Рабочий стол\ProjectTasks\BackingUpFiles\BackingUpFiles\bin\Debug\net6.0\BackingUpFiles.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\ProjectTasks\BackingUpFiles\BackingUpFiles\obj\Debug\net6.0\BackingUpFiles.csproj.AssemblyReference.cache
+C:\Users\pavel\OneDrive\Рабочий стол\ProjectTasks\BackingUpFiles\BackingUpFiles\obj\Debug\net6.0\BackingUpFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\OneDrive\Рабочий стол\ProjectTasks\BackingUpFiles\BackingUpFiles\obj\Debug\net6.0\BackingUpFiles.AssemblyInfoInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\ProjectTasks\BackingUpFiles\BackingUpFiles\obj\Debug\net6.0\BackingUpFiles.AssemblyInfo.cs
+C:\Users\pavel\OneDrive\Рабочий стол\ProjectTasks\BackingUpFiles\BackingUpFiles\obj\Debug\net6.0\BackingUpFiles.csproj.CoreCompileInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\ProjectTasks\BackingUpFiles\BackingUpFiles\obj\Debug\net6.0\BackingUpFiles.dll
+C:\Users\pavel\OneDrive\Рабочий стол\ProjectTasks\BackingUpFiles\BackingUpFiles\obj\Debug\net6.0\refint\BackingUpFiles.dll
+C:\Users\pavel\OneDrive\Рабочий стол\ProjectTasks\BackingUpFiles\BackingUpFiles\obj\Debug\net6.0\BackingUpFiles.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\ProjectTasks\BackingUpFiles\BackingUpFiles\obj\Debug\net6.0\BackingUpFiles.genruntimeconfig.cache
+C:\Users\pavel\OneDrive\Рабочий стол\ProjectTasks\BackingUpFiles\BackingUpFiles\obj\Debug\net6.0\ref\BackingUpFiles.dll
